@@ -6,7 +6,7 @@ async function mainRun() {
 		name: 'MilliesCollar',
 		fullName: 'Millies ritual collar',
 		version: modVersion,
-		repository: 'https://github.com/apathy23/milliescollar',
+		repository: 'https://github.com/apathy23/collarproject',
 	});
 
     function mainCollarLoop() {
